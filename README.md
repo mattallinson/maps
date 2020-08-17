@@ -5,7 +5,16 @@ This repository has all the jupyter notebooks I use to make maps that I publish 
 ## Results
 ### All the saunas in Finland
 Source code: [Saunas.ipynb](../master/notebooks/Saunas.ipynb)
-![All the Saunas in Finland](../master/output/final/finland_saunas.png)
+![A map showing all the Saunas in Finland](../master/output/final/finland_saunas.png)
+
+### Cricket Pitches in the USA
+Source Code: [Cricket_and_football.ipynb](../master/notebooks/Cricket_and_football.ipynb)
+![A map showing the Cricket Pitches in the USA](../master/output/final/cricket_USA.png)
+
+### American Football Pitches in India
+Source Code: [Cricket_and_football.ipynb](../master/notebooks/Cricket_and_football.ipynb)
+![A map showing the American Football Pitches in India](../master/output/final/AmericanFootball_India.png)
+
 
 ## Tools:
 * **Base maps:** https://www.naturalearthdata.com/
