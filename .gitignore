@@ -7,3 +7,6 @@
 *.zip
 maps/10m_cultural/
 maps/50m_cultural/
+
+# ignores the indesign files
+output/indesign

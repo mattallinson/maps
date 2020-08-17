@@ -1,5 +1,4 @@
 # Maps!!!
-[![Maps - Yeah Yeah Yeahs (2003)](https://img.youtube.com/vi/oIIxlgcuQRU/0.jpg)](https://www.youtube.com/watch?v=oIIxlgcuQRU)
 
 This repository has all the jupyter notebooks I use to make maps that I publish online.
 
@@ -11,5 +10,5 @@ To get location data for things (saunas, cricket pitches, etc) use Overpass Turb
 
 ## Results
 ### All the saunas in Finland
-Source code: [Saunas.ipynb](../blob/master/Saunas.ipynb)
-![All the Saunas in Finland](../blob/master/output/final/finland_saunas.png)
+Source code: [Saunas.ipynb](../master/Saunas.ipynb)
+![All the Saunas in Finland](../master/output/final/finland_saunas.png)
