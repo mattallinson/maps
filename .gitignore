@@ -1,0 +1,9 @@
+#junk
+.ipynb_checkpoints
+.DS_Store
+
+#ignores maps we don't use but are storing for the future
+
+*.zip
+maps/10m_cultural/
+maps/50m_cultural/
