@@ -3,6 +3,10 @@
 This repository has all the jupyter notebooks I use to make maps that I publish online.
 
 ## Results
+### Sports in the Caribbean
+Source code : [Caribbean_sport.ipynb](../master/notebooks/Caribbean_sport.ipynb)
+![A map showing the crikcet and baseball pitches in the Caribbean](../master/output/final/caribbean_sport.png)
+
 ### All the saunas in Finland
 Source code: [Saunas.ipynb](../master/notebooks/Saunas.ipynb)
 ![A map showing all the Saunas in Finland](../master/output/final/finland_saunas.png)
