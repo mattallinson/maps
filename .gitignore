@@ -2,8 +2,11 @@
 .ipynb_checkpoints
 .DS_Store
 
-#ignores maps we don't use but are storing for the future
+# ignores data folder, only uploads zip
+data
+!data.zip
 
+# ignores maps we don't use but are storing for the future
 maps/10m_cultural/
 maps/50m_cultural/
 
