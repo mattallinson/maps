@@ -4,7 +4,7 @@
 
 # ignores data folder, only uploads zip
 data
-!data.zip
+!data.tar.bz2
 
 # ignores maps we don't use but are storing for the future
 maps/10m_cultural/
