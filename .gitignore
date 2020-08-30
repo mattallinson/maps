@@ -7,8 +7,8 @@ data
 !data.tar.bz2
 
 # ignores maps we don't use but are storing for the future
-maps/10m_cultural/
-maps/50m_cultural/
+basemaps/10m_cultural/
+basemaps/50m_cultural/
 
 # ignores the indesign files
 output/indesign
