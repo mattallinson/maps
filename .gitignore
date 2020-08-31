@@ -2,9 +2,10 @@
 .ipynb_checkpoints
 .DS_Store
 
-# ignores data folder, only uploads zip
-data
-!data.tar.bz2
+# draft, raw or junk data files
+/data/*.geojson
+*/*.csv
+*/*.pkl
 
 # ignores maps we don't use but are storing for the future
 basemaps/10m_cultural/
